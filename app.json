@@ -10,7 +10,7 @@
   ],
   "repository": "https://github.com/akunbaru3/NEWBIE-USER_BOT",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/GeezSupportGroup",
+  "success_url": "https://t.me/codplanetmars",
   "stack": "container",
   "env": {
     "API_KEY": {
